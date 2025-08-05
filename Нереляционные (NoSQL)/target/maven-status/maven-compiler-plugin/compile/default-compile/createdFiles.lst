@@ -1,6 +1,0 @@
-com/example/mongodbuserapp/controller/UserController.class
-com/example/mongodbuserapp/model/User.class
-com/example/mongodbuserapp/repository/UserRepository.class
-com/example/mongodbuserapp/exception/GlobalExceptionHandler.class
-com/example/mongodbuserapp/service/UserService.class
-com/example/mongodbuserapp/MongoDbUserAppApplication.class
